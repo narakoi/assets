@@ -223,11 +223,19 @@
 
 @font-face {
 	font-family: 'cool';
+<<<<<<< HEAD
     src:  url('./assets/fonts/cool-icons.eot?k8g547');
     src:  url('./assets/fonts/cool-icons.eot?k8g547#iefix') format('embedded-opentype'),
       url('./assets/fonts/cool-icons.ttf?k8g547') format('truetype'),
       url('./assets/fonts/cool-icons.woff?k8g547') format('woff'),
       url('./assets/fonts/cool-icons.svg?k8g547#cool-icons') format('svg');
+=======
+    src:  url('https://cdn.jsdelivr.net/gh/narakoi/assets/fonts/cool-icons.eot?k8g547');
+    src:  url('https://cdn.jsdelivr.net/gh/narakoi/assets/fonts/cool-icons.eot?k8g547#iefix') format('embedded-opentype'),
+      url('https://cdn.jsdelivr.net/gh/narakoi/assets/fonts/cool-icons.ttf?k8g547') format('truetype'),
+      url('https://cdn.jsdelivr.net/gh/narakoi/assets/fonts/cool-icons.woff?k8g547') format('woff'),
+      url('https://cdn.jsdelivr.net/gh/narakoi/assets/fonts/cool-icons.svg?k8g547#cool-icons') format('svg');
+>>>>>>> 1ddb613e3177a7e83b6671a5636a611607eb2ff5
     font-weight: normal;
     font-style: normal;
 }
